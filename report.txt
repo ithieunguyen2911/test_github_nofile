@@ -1,0 +1,4 @@
+id,name,sex,total
+6,Tran Phu Thanh,M,50000
+1,Tran Van A,M,50000
+3,Nguyen Thi C,F,30000
