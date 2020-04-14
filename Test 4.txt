@@ -1,0 +1,3 @@
+This is the test 4
+I add a method on test 4.
+I add twelve method on test 4.
